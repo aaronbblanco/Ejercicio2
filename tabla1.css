@@ -1,0 +1,22 @@
+
+    table {
+     border: 2px solid black;
+     width: 50%;
+     margin-left: 25%;
+     padding: 30px;
+    
+ }
+
+ tr {
+     height: 5em;
+     vertical-align: middle;
+
+ }
+
+ td {
+     border: 2px solid black;
+     font-size: 2em;
+     text-align: center;
+     padding: 10px;
+    
+ }
